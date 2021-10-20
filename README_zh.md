@@ -1,6 +1,6 @@
-基于https://github.com/fatedier/frp最新版v0.37.1(2021.10为止最新版本)手动编译的ios framework，可在ios设备上运行的代码
-参考https://github.com/FrpcCluster/frpc-IOS,但这个版本太老了三年没维护了.基于0.21的版本在ios上真机运行会有些缺陷
-于是自己拉了frp v0.37.1的源码用golang编译成ios framework
+基于https://github.com/fatedier/frp 最新版v0.37.1(2021.10为止最新版本)手动编译的ios framework，可在ios设备上运行的代码
+参考https://github.com/FrpcCluster/frpc-IOS ,但这个版本太老了三年没维护了.基于0.21的版本在ios上真机运行会有些缺陷
+于是自己拿frp v0.37.1的源码用golang编译成ios framework
 
 ## Frp Client Framework for iOS
 
